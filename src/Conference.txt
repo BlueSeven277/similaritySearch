@@ -1,0 +1,1241 @@
+﻿B - Formal Specification and Development in B
+B-Interface - Bio-inspired Human-Machine Interfaces and Healthcare Applications
+BAIP - Business Administration and Information Processing
+Balanced Automation Systems in Manufacturing and Services (BASYS)
+Balkan Conference in Informatics (BCI)
+BalkanCryptSec - Cryptography and Information Security in the Balkans
+Baltic Computer Science (BalticDB&IS)
+Baltic Conference on Databases and Information Systems (DB&IS)
+BalticDB&IS - Baltic Computer Science
+BAMBI - Bayesian and grAphical Models for Biomedical Imaging
+Banff Higher Order Workshop (Banff)
+Bangalore Annual Compute Conference (Compute)
+Basque International Workshop on Information Technology (BIWIT)
+BASYS - Balanced Automation Systems in Manufacturing and Services
+Bayesian and grAphical Models for Biomedical Imaging (BAMBI)
+Bayesian Modeling Applications Workshop (BMAW @ UAI)
+BC - Broadband Communications
+BCB - Bioinformatics, Computational Biology and Biomedicine
+BCEC - Biocomputing and Emergent Computation
+ Chemoinformatics
+BCI - Balkan Conference in Informatics
+BCS HCI - British Computer Society Conference on Human-Computer Interaction
+BCS International Academic Conference (BCS)
+BCS International IT Conference
+BCS-FACS Publications (BCS-FACS)
+BD - Biographical Data in a Digital World
+BD3 @ VLDB - Big Dynamic Distributed Data
+BDA - Big Data Analytics
+BDA - Journes Bases de Donnes Avances
+BDAS - Beyond Databases, Architectures, and Structures
+BDC - Big Data Computing
+BDCA - Big Data Cloud and Applications
+BdCloud - Big Data and Cloud Computing
+BDIM - Business-Driven IT Management
+BDVA - Big Data Visual Analytics
+Behavioral and Quantitative Game Theory (BQGT)
+Behavioral, Economic, and Socio-Cultural Computing (BESC)
+Behavioral Modeling and Simulation (BMAS)
+Behaviour Modelling - Foundations and Applications (BM-FA)
+Belgium-Netherlands Conference on Artificial Intelligence (BNAIC)
+Belief Functions
+BELIV - Beyond Time and Errors: Novel Evaluation Methods for Visualization
+Berkeley Workshop on Distributed Data Management and Computer Networks (Berkeley Workshop)
+Berlin Workshops
+Berliner XML Tage (Berliner XML)
+Bertinoro Workshops
+BESC - Behavioral, Economic, and Socio-Cultural Computing
+Best Practices of UML (BP-UML @ ER)
+Beyond Databases, Architectures, and Structures (BDAS)
+Beyond Time and Errors: Novel Evaluation Methods for Visualization (BELIV)
+BHI - Biomedical and Health Informatics
+BIBE - Bioinformatics and Bioengineering
+BIBM - Bioinformatics and Biomedicine
+BIC-TA - Bio-Inspired Computing: Theories and Applications
+BICA - Biologically Inspired Cognitive Architectures
+BICC - Biologically Inspired Cooperative Computing
+BICoB - Bioinformatics and Computational Biology
+BICOD - British International Conference on Databases
+BICS - Brain Inspired Cognitive Systems
+BICT - Bio-inspired Information and Communications Technologies
+BIDM @ DEXA - Biological Data Management
+BIFE - Business Intelligence and Financial Engineering
+Big Data Analytics (BDA)
+Big Data and Cloud Computing (BdCloud)
+Big Data and Smart Computing (BIGCOMP)
+Big Data Benchmarks, Performance Optimization, and Emerging Hardware (BPOE)
+Big Data Cloud and Applications (BDCA)
+Big Data Computing and Communications (BigCom)
+Big Data Computing (BDC)
+Big Data Computing Service and Applications (BigDataService)
+Big Data Software Engineering (BIGDSE @ ICSE)
+Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine @ KDD)
+Big Data Visual Analytics (BDVA)
+Big Dynamic Distributed Data (BD3 @ VLDB)
+BigCom - Big Data Computing and Communications
+BIGCOMP - Big Data and Smart Computing
+BigData - IEEE International Conference on Big Data
+BigData Congress (BigData)
+BigDataService - Big Data Computing Service and Applications
+BIGDSE @ ICSE - Big Data Software Engineering
+BigMDE @ staf - Workshop on Scalability in Model Driven Engineering
+BigMine @ KDD - Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
+BigMM - International Conference on Multimedia Big Data
+BigSpatial @ GIS - Analytics for Big Geospatial Data
+BigSystem @ HPDC - Workshop on Software-Defined Ecosystems
+BIH - Brain Informatics and Health
+BIIML - Bristol Ideas in Mobile Learning
+Bildverarbeitung fr die Medizin
+Bio-Inspired Computing: Theories and Applications (BIC-TA)
+Bio-Inspired Design of Networks (BIOWIRE )
+Bio-inspired Human-Machine Interfaces and Healthcare Applications (B-Interface)
+Bio-inspired Information and Communications Technologies (BICT)
+Bio-inspired, Learning, and Intelligent Systems for Security (BLISS)
+Bio-inspired Systems and Signal Processing (BIOSIGNALS)
+Bio-Science and Bio-Technology (BSBT @ FGCN)
+BioADIT - Biologically Inspired Approaches to Advanced Information Technology
+BIOCOMP - Bioinformatics & Computational Biology
+Biocomputation, Bioinformatics, and Biomedical Technologies (BIOTECHNO)
+Biocomputing and Emergent Computation (BCEC)
+BIODEVICES - Biomedical Electronics and Devices
+BioFor @ ICIAP - Recent Advances in Digital Security: Biometrics and Forensics
+Biographical Data in a Digital World (BD)
+BIOID - Biometrics and Identity Management
+BIOINFORMATICS - International Conference on Bioinformatics
+Bioinformatics and Bioengineering (BIBE)
+Bioinformatics and Biomedicine (BIBM)
+Bioinformatics and Computational Biology (BICoB)
+Bioinformatics, Computational Biology and Biomedicine (BCB)
+Bioinformatics & Computational Biology (BIOCOMP)
+Bioinformatics, Computational Biology, Genomics and Chemoinformatics (BCGBC)
+Bioinformatics Research and Development (BIRD)
+Bioinspired Models of Network, Information, and Computing Systems (BIONETICS)
+BIOKDD @ DEXA - Biological Knowledge Discovery and Data Mining
+BIOKDD @ KDD - Data Mining in Bioinformatics
+Biological Data Management (BIDM @ DEXA)
+Biological Knowledge Discovery and Data Mining (BIOKDD @ DEXA)
+Biologically Inspired Approaches to Advanced Information Technology (BioADIT)
+Biologically Inspired Cognitive Architectures (BICA)
+Biologically Inspired Cooperative Computing (BICC)
+Biologically Motivated Computer Vision (BMCV)
+BioMED - Biomedical Engineering
+Biomedical and Health Informatics (BHI)
+Biomedical Electronics and Devices (BIODEVICES)
+BioMedical Engineering and Informatics (BMEI)
+Biomedical Engineering (BioMED)
+Biomedical Engineering Systems and Technologies (BIOSTEC)
+BIOMET - Biometric Authentication
+Biometric Authentication (BIOMET)
+Biometric Measurements and Systems for Security and Medical Applications (BioMS)
+Biometrics and Electronic Signatures (BIOSIG)
+Biometrics and Identity Management (BIOID)
+Biometrics: Theory, Applications and Systems (BTAS)
+BioMS - Biometric Measurements and Systems for Security and Medical Applications
+BIONETICS - Bioinspired Models of Network, Information, and Computing Systems
+BioSecure - International Workshop on Biosurveillance and Biosecurity
+BIOSIG - Biometrics and Electronic Signatures
+BIOSIGNALS - Bio-inspired Systems and Signal Processing
+BIOSTEC - Biomedical Engineering Systems and Technologies
+BioSurveillance - NSF Biosurveillance Workshop
+BIOTECHNO - Biocomputation, Bioinformatics, and Biomedical Technologies
+BioVis - Symposium on Biological Data Visualization
+BIOWIRE - Bio-Inspired Design of Networks
+Biowissenschaften (Informatik in den...)
+BIR - Business Informatics Research
+BIRD - Bioinformatics Research and Development
+BIRTE - Business Intelligence for the Real-Time Enterprises
+BIS - Business Information Systems
+BIWIT - Basque International Workshop on Information Technology
+Black Sea Conference on Communications and Networking (BlackSeaCom)
+BlackSeaCom - Black Sea Conference on Communications and Networking
+BLISS - Bio-inspired, Learning, and Intelligent Systems for Security
+BlogTalk - International Conferences on Social Software
+BM-FA - Behaviour Modelling - Foundations and Applications
+BMAS - Behavioral Modeling and Simulation
+BMAW @ UAI - Bayesian Modeling Applications Workshop
+BMCV - Biologically Motivated Computer Vision
+BMEI - BioMedical Engineering and Informatics
+BMSB - Broadband Multimedia Systems and Broadcasting
+BMSD - Business Modeling and Software Design
+BMVC - British Machine Vision Conference
+BNAIC - Belgium-Netherlands Conference on Artificial Intelligence
+BNCOD - British National Conference on Databases
+Body Area Networks (BODYNETS)
+BODYNETS - Body Area Networks
+BOEMIE - Bootstrapping Ontology Evolution with Multimedia Information Extraction
+Bonn Workshop of Combinatorial Optimization
+BooksOnline @ CIKM - Workshop on Research Advances in Large Digital Book Repositories
+Bootstrapping Ontology Evolution with Multimedia Information Extraction (BOEMIE)
+BP-UML @ ER - Best Practices of UML
+BPM - Business Process Management
+BPMDS @ CAiSE - Business Process Modeling, Development and Support
+BPMN - Business Process Modeling Notation
+BPOE - Big Data Benchmarks, Performance Optimization, and Emerging Hardware
+BPS @ DEXA - Business Processes Security
+BPSC - Business Process and Services Computing
+BQGT - Behavioral and Quantitative Game Theory
+BRACIS - Brazilian Conference on Intelligent Systems
+Brain Informatics and Health (BIH)
+Brain Inspired Cognitive Systems (BICS)
+Brain, Vision, and Artificial Intelligence (BVAI)
+Brain-Inspired Computing (BrainComp)
+BrainComp - Brain-Inspired Computing
+Brainles @ MICCAI - Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries
+Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (Brainles @ MICCAI)
+Brazilian Conference on Intelligent Systems (BRACIS)
+Brazilian Symposium on Artificial Intelligence (SBIA)
+Brazilian Symposium on Bioinformatics (BSB)
+Brazilian Symposium on Collaborative Systems (SBSC)
+Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI)
+Brazilian Symposium on Computer Networks and Distributed Systems (SBRC)
+Brazilian Symposium on Computing System Engineering (SBESC)
+Brazilian Symposium on Databases (SBBD)
+Brazilian Symposium on Document Image Analysis (BSDIA)
+Brazilian Symposium on Formal Methods (SBMF)
+Brazilian Symposium on GeoInformatics (GeoInfo)
+Brazilian Symposium on Multimedia and the Web (WebMedia)
+Brazilian Symposium on Neural Networks (SBRN)
+Brazilian Symposium on Programming Languages (SBLP)
+Brazilian Symposium on Software Components, Architectures and Reuse (SBCARS)
+Brazilian Symposium on Software Engineering (SBES)
+Brazilian Workshop on Bioinformatics (WOB)
+BRIDGE @ ICSE - Bringing Architectural Design Thinking into Developers' Daily Activities
+Bringing Architectural Design Thinking into Developers' Daily Activities (BRIDGE @ ICSE)
+Bristol Ideas in Mobile Learning (BIIML)
+British Combinatorial Conference
+British Computer Society Conference on Human-Computer Interaction (BCS HCI)
+British International Conference on Databases (BICOD)
+British Machine Vision Conference (BMVC)
+British National Conference on Databases (BNCOD)
+Broadband and Wireless Computing, Communication and Applications (BWCCA)
+Broadband Communications (BC)
+Broadband Communications, Networks and Systems (BROADNETS)
+Broadband Islands
+Broadband Multimedia Systems and Broadcasting (BMSB)
+Broadband Networking Technologies
+BroadCom - International Conference on Broadband Communications, Information Technology & Biomedical Applications
+BROADNETS - Broadband Communications, Networks and Systems
+Broautomation
+BSB - Brazilian Symposium on Bioinformatics
+BSBT @ FGCN - Bio-Science and Bio-Technology
+BSDCon - USENIX Conference on the BSD operating system
+BSDIA - Brazilian Symposium on Document Image Analysis
+BSN - Wearable and Implantable Body Sensor Networks
+BTAS - Biometrics: Theory, Applications and Systems
+BTW - Datenbanksysteme fr Business, Technologie und Web
+BuildSys @ SenSys - Workshop on Embedded Systems For Energy-Efficient Buildings
+BUIS-Tage: Betriebliche Umweltinformationssysteme (BUIS-Tage)
+Business Administration and Information Processing (BAIP)
+Business Informatics Research (BIR)
+Business Information Systems (BIS)
+Business Intelligence and Financial Engineering (BIFE)
+Business Intelligence for the Real-Time Enterprises (BIRTE)
+Business Intelligence Systems (miproBIS)
+Business/IT Alignment and Interoperability (BUSITAL @ CAiSE)
+Business Modeling and Software Design (BMSD)
+Business Process and Services Computing (BPSC)
+Business Process Management (BPM)
+Business Process Modeling, Development and Support (BPMDS @ CAiSE)
+Business Process Modeling Notation (BPMN)
+Business Processes Security (BPS @ DEXA)
+Business-Driven IT Management (BDIM)
+BUSITAL @ CAiSE - Business/IT Alignment and Interoperability
+BVAI - Brain, Vision, and Artificial Intelligence
+BWCCA - Broadband and Wireless Computing, Communication and Applications
+C++ Conference (C++)
+C&T - Communities and Technologies
+C2SI - Codes, Cryptology, and Information Security
+C3S2E - Canadian Conference on Computer Science & Software Engineering
+C5 - Conference on Creating, Connecting and Collaborating through Computing
+CA - Computer Animation
+CAAN - Combinatorial and Algorithmic Aspects of Networking
+CAAP - Colloquium on Trees in Algebra and Programming
+CAC - Cloud and Autonomic Computing Conference
+CACSD - Computer-Aided Control System Design
+CAD - Rechneruntersttztes Entwerfen und Konstruieren (Corporate Engineering Research)
+CAD/Graphics - Computer-Aided Design and Computer Graphics
+CADE - Conference on Automated Deduction
+CADUI - Computer-Aided Design of User Interfaces
+CAEPIA - Conferencia de la Asociacin Espaola para la Inteligencia Artificial
+CAI - Conference on Algebraic Informatics
+CAIA - Conference on Artificial Intelligence Applications
+CAINE - Computer Applications in Industry and Engineering
+CAIP - Computer Analysis of Images and Patterns
+CAiSE - Conference on Advanced Information Systems Engineering
+CAIVD - Content-Based Access of Image and Video Databases
+CAL - Confrence francophone sur les Architectures Logicielles
+CaLC - Cryptography and Lattices
+CALCO - Conference on Algebra and Coalgebra in Computer Science
+Calculemus Symposium (Calculemus)
+CALDAM - Conference on Algorithms and Discrete Applied Mathematics
+CALISCE - Computer Aided Learning and Instruction in Science and Engineering
+CAMAD - Computer Aided Modeling and Design of Communication Links and Networks
+Camera-Based Document Analysis and Recognition (CBDAR)
+CAMP - Capaian Maklumat dan Pengurusan Pengetahuan (Information Retrieval & Knowledge Management)
+CAMP - Computer Architectures for Machine Perception
+CAMSAP - Computational Advances in Multi-Sensor Adaptive Processing
+Canada-France Conference on Parallel and Distributed Computing (CFCP)
+Canadian Conference on Artificial Intelligence (AI)
+Canadian Conference on Computational Geometry (CCCG)
+Canadian Conference on Computer and Robot Vision (CRV)
+Canadian Conference on Computer Science & Software Engineering (C3S2E)
+Canadian Conference on Electrical and Computer Engineering (CCECE)
+Canadian Semantic Web Symposium (CSWS)
+Canadian Semantic Web Working Symposium (CSWWS)
+Canadian Workshop on Information Theory (CWIT)
+CANDAR - Computing and Networking - Across Practical Development and Theoretical Research
+CANPC - Communication, Architecture, and Applications for Network-Based Parallel Computing
+CANS - Cryptology and Network Security
+CAP - Computer Algebra and Parallelism
+CAP - Confrence francophone sur l'apprentissage automatique
+Capacity Sharing Workshop (CSWS @ SIGCOMM)
+Capaian Maklumat dan Pengurusan Pengetahuan (Information Retrieval & Knowledge Management) (CAMP)
+CAPTECH - Modelling and Motion Capture Techniques for Virtual Environments
+CAR - Informatics in Control, Automation and Robotics
+CARDIS - Smart Card Research and Advanced Application Conference
+CARE @ IAT - Collaborative Agents - REsearch and Development
+CARE @ MICCAI - Computer-Assisted and Robotic Endoscopy
+CARLA - Latin American Conference on High Performance Computing
+CARS - Computer Assisted Radiology and Surgery
+CARTOCON
+CASA - Computer Animation and Social Agents
+CASC - Computer Algebra in Scientific Computing
+CASCON - Conference of the Centre for Advanced Studies on Collaborative Research
+CASDMKM - Chinese Academy of Sciences Symposium on Data Mining and Knowledge Management
+CASE - Conference on Automation Science and Engineering
+CASEMANS - Context-Awareness for Self-Managing Systems
+CASES - Compilers, Architecture, and Synthesis for Embedded Systems
+CASFE - Context-Aware Adaptation of Service Front-Ends
+CASoN - Computational Aspects of Social Networks
+CASSIS - Construction and Analysis of Safe, Secure, and Interoperable Smart Devices
+CATA - Computers and Their Applications
+Catalan Association for Artificial Intelligence (CCIA)
+Catalan Conference on AI (CCIA)
+CATE - Computers and Advanced Technology in Education
+Category Theory
+Category Theory and Computer Science (CTCS)
+CATS - Computing: The Australasian Theory Symposium
+Causal Inference (CI @ UAI)
+CAV - Computer Aided Verification
+CBD - Cloud and Big Data
+CBDAR - Camera-Based Document Analysis and Recognition
+CBI - Conference on Business Informatics
+CBMI - Content-Based Multimedia Indexing
+CBMS - Computer-Based Medical Systems
+CBRecSys @ RecSys - New Trends in Content-based Recommender Systems
+CBSE - Component-Based Software Engineering
+CC - Compiler Construction
+CCA - Computability and Complexity in Analysis
+CCA - Conference on Control Applications
+CCB @ Middleware - CrossCloud Systems
+CCBR - Chinese Conference on Biometric Recognition
+CCC - Conference on Computational Complexity
+CCCG - Canadian Conference on Computational Geometry
+CCCV - Chinese Conference on Computer Vision
+CCE - Coordination of Collaborative Engineering
+CCE - International Conference on Electrical Engineering, Computing Science and Automatic Control
+CCECE - Canadian Conference on Electrical and Computer Engineering
+CCGIDIS - Communicability, Computer Graphics and Innovative Design for Interactive Systems
+CCGRID - Cluster Computing and the Grid
+CCHI - International Symposium of Chinese CHI
+CCIA - Catalan Association for Artificial Intelligence
+CCIA - Catalan Conference on AI
+CCIS - Cloud Computing and Intelligence Systems
+CCIW - Computational Color Imaging Workshop
+CCL - Chinese Computational Linguistics
+CCL - Constraints in Computational Logics
+CCMB - Computational Intelligence, Cognitive Algorithms, Mind, and Brain
+CCN - Communications and Computer Networks
+CCNC - Consumer Communications and Networking Conference
+CCP - Certified Programs and Proofs
+CCP - Data Compression, Communications and Processing
+CCPI @ Euro-Par - Cloud Computing Projects and Initiatives
+CCPR - Chinese Conference on Pattern Recognition
+CCS - Circuits, Signals, and Systems
+CCS - Combinatorics and Computer Science
+CCS - Computer and Communications Security
+CCSEIT - Conference on Computational Science, Engineering and Information Technology
+CCSW @ CCS - Cloud Computing Security Workshop
+CCTA - Computer and Computing Technologies in Agriculture
+CD - IFIP/ACM Working Conference on Component Deployment
+CDB - Constraint Databases and Applications
+CDC - Conference on Decision and Control
+CDES - Computer Design
+CDM - Collaborative Decision Making
+CDMA International Conference (CIC)
+CDMA International Conference (CIC) (CDMA)
+CDS - Configurable Distributed Systems
+CDS @ ICDCS - Cooperative Distributed Systems
+CDVE - Cooperative Design, Visualization, and Engineering
+CEA @ MM - Multimedia for Cooking & Eating Activities
+CEAS - Conference on Email and Anti-Spam
+CEC - Commerce and Enterprise Computing
+CEC - Conference on Electronic Commerce Technology
+CEC - Congress on Evolutionary Computation
+CEE-SET - Central and East European Conference on Software Engineering Techniques
+CEEMAS - International Workshop of Central and Eastern Europe on Multi-Agent Systems
+CEFP - Central European Functional Programming School
+CEIG - Spanish Computer Graphics Conference
+CELDA @ IADIS Conferences - Cognition and Exploratory Learning in Digital Age
+Cellular Automata for Research and Industry (ACRI)
+CENTERIS - Conference on ENTERprise Information Systems
+Central and East European Conference on Software Engineering Techniques (CEE-SET)
+Central European Functional Programming School (CEFP)
+Central-European Workshop on Services and their Composition (ZEUS)
+CEPES-UNESCO Publications (CEPES-UNESCO)
+Certified Programs and Proofs (CCP)
+CESCIT - Conference on Embedded Systems, Computational Intelligence and Telematics in Control
+CESI @ ICSE - Conducting Empirical Studies in Industry
+CETS - Conference on E-business Technology and Strategy
+CF - Computing Frontiers
+CFCP - Canada-France Conference on Parallel and Distributed Computing
+CFI - Conference of Future Internet
+CFIP - Colloque Francophone sur l'Ingnierie des Protocoles
+CG - Computational Geometry
+CG - Computers and Games
+CGAMES - Computer Games
+CGC - Cloud and Green Computing
+CGDC - Computer Games and Digital Cultures Conference
+CGGA - Computational Geometry, Graphs and Applications
+CGI - Computer Graphics International
+CGIM - Computer Graphics and Imaging
+CGIV - Colour in Graphics, Imaging, and Vision
+CGIV - Computer Graphics, Imaging and Visualization
+CGO - Symposium on Code Generation and Optimization
+CGVC - Computer Graphics and Visual Computing
+CGVR - International Conference on Computer Graphics and Virtual Reality
+CGW @ IJCAI - Workshop on Computer Games
+Challenges of Large Applications in Distributed Environments (CLADE)
+Challenges of Large Applications in Distributed Environments (CLADE @ HPDC)
+CHANGE @ ASPLOS - Computing in Heterogeneous, Autonomous 'N' Goal-Oriented Environments
+Changing Landscapes in HPC Security (CLHS @ HPDC)
+CHANTS @ MOBICOM - Workshop on Challenged Networks
+CHARME - Correct Hardware Design and Verification Methods
+CHASE @ ICSE - Cooperative and Human Aspects of Software Engineering
+CHDL - Computer Hardware Description Languages and their Applications
+CHES - Cryptographic Hardware and Embedded Systems
+CHESE @ ISSTA - Code Hunt on Educational Software Engineering
+CHI - Human Factors in Computing Systems
+CHI PLAY - Computer-Human Interaction in Play
+CHIIR - Conference on Human Information Interaction and Retrieval
+Chilean Conference on Human - Computer Interaction (ChileCHI)
+ChileCHI - Chilean Conference on Human - Computer Interaction
+CHIMIT - Computer Human Interaction for Management of Information Technology
+China Semantic Web Symposium (CSWS)
+China Summit and International Conference on Signal and Information Processing (ChinaSIP)
+China-Japan Conference on Discrete Geometry, Combinatorics and Graph Theory (CJCDGCGT)
+CHINACOM - Communications and Networking in China
+ChinaGrid (ChinaGrid)
+ChinaSIP - China Summit and International Conference on Signal and Information Processing
+Chinese Academy of Sciences Symposium on Data Mining and Knowledge Management (CASDMKM)
+Chinese Computational Linguistics (CCL)
+Chinese Conference on Biometric Recognition (CCBR)
+Chinese Conference on Biometric Recognition (SINOBIOMETRICS)
+Chinese Conference on Computer Vision (CCCV)
+Chinese Conference on Pattern Recognition (CCPR)
+Chinese Lexical Semantics (CLSW)
+CHINZ - New Zealand Chapter's International Conference on Computer-Human Interaction
+CHItaly - ACM SIGCHI Italian Chapter International Conference on Computer-Human Interaction
+CHOROCHRONOS Approach, The (CHOROCHRONOS)
+CI - Computational Intelligence
+CI @ UAI - Causal Inference
+CIA - Cooperative Information Agents
+CIAA - Conference on Implementation and Application of Automata
+CIAC - Italian Conference on Algorithms and Complexity
+CIAO! @ CAiSE - Advances in Enterprise Engineering
+CIARP - Iberoamerican Congress on Pattern Recognition
+CIASG - Computational Intelligence Applications in Smart Grid
+CIB - Computational Intelligence in Biometrics
+CIBB - Computational Intelligence Methods for Bioinformatics and Biostatistics
+CIBCB - Computational Intelligence in Bioinformatics and Computational Biology
+CIBCI - Computational Intelligence in Brain Computer Interfaces
+CIBD - Computational Intelligence in Big Data
+CIBIM - Computational Intelligence in Biometrics and Identity Management
+CIbSE - Conferencia Iberoamericana de Software Engineering
+CIC - CDMA International Conference
+CIC - Collaboration and Internet Computing
+CIC - Color Imaging Conference
+CIC - Communications in Computing
+CICA - Computational Intelligence in Control and Automation
+CICAC - Computational Intelligence for Creativity and Affective Computing
+CICARE - Computational Intelligence in Healthcare and e-health
+CICC - Custom Integrated Circuits Conference
+CICLing - Conference on Intelligent Text Processing and Computational Linguistics
+CICM - Intelligent Computer Mathematics
+CIComms - Computational Intelligence for Communication Systems and Networks
+CICS - Computational Intelligence in Cyber Security
+CICSyN - Computational Intelligence, Communication Systems and Networks
+CIDE - Colloque International sur le Document Electronique
+CIDM - Computational Intelligence and Data Mining
+CIDR - Conference on Innovative Data Systems Research
+CIDU - Conference on Intelligent Data Understanding
+CIDUE - Computational Intelligence in Dynamic and Uncertain Environments
+CiE - Conference on Computability in Europe
+CIEL - Computational Intelligence and Ensemble Learning
+CIES - Computational Intelligence for Engineering Solutions
+CIFEr - Computational Intelligence for Financial Engineering & Economics
+CIG - Computational Intelligence and Games
+CIHLI - Computational Intelligence for Human-like Intelligence
+CIIA - Confrence Internationale sur l'Informatique et ses Applications
+CIIC - Congreso Internacional de Inteligencia Computacional
+CIIP - Computational Intelligence for Image Processing
+CIISE - INCOSE Italia Conference on Systems Engineering
+CIIT - Communications, Internet, and Information Technology
+CIKM - Conference on Information and Knowledge Management
+CILC - Italian Conference on Computational Logic
+CIM - Computer Integrated Manufacturing
+CIMCA - Computational Intelligence for Modelling, Control and Automation
+CIMI - Computational Intelligence in Medical Imaging
+CIMS @ CIKM - CyberInfrastructure: Information Management in eScience
+CIMSIVP - Computational Intelligence for Multimedia, Signal and Vision Processing
+cInQ project (cInQ)
+CIP - Cognitive Information Processing
+CIP-Project (CIP)
+CIPLS - Computational Intelligence In Production And Logistics Systems
+CIR2AT - Computational Intelligence in Robotic Rehabilitation and Assistive Technologies
+CIRA - Computational Intelligence in Robotics and Automation
+CIRAT - Computational Intelligence in Rehabilitation and Assistive Technologies
+Circuits and Systems (CIRSYS)
+Circuits, Signals, and Systems (CCS)
+CIRSYS - Circuits and Systems
+CIS - Computational and Information Science
+CIS - Computational Intelligence and Security
+CISC - Conference on Information Security and Cryptology
+CISched - Computational Intelligence in Scheduling
+CISDA - Computational Intelligence for Security and Defense Applications
+CISIM - Computer Information Systems and Industrial Management Applications
+CISIS - Complex, Intelligent and Software Intensive Systems
+CISIS - Computational Intelligence in Security for Information Systems
+CISM Workshops (CISM)
+CISMOD - Conference on Information Systems and Management of Data
+CISR - Cyber and Information Security Research
+CISRC - Cyber and Information Security Research Conference
+CISS - Conference on Information Sciences and Systems
+CISSE - Computer, Information, and Systems Sciences, and Engineering
+CISST - Conference on Imaging Science, Systems and Technology
+CIST - Colloquium in Information Science and Technology
+CISWSN @ IAT - Collective Intelligence in Semantic Web and Social Networks
+CIT - Computer and Information Technology
+CIT - Conference on Information Technology
+CITA - Conference on Information Technology in Asia
+CITC - Conference on Information Technology Curriculum
+CitiSens - Citizen in Sensor Networks
+Citizen in Sensor Networks (CitiSens)
+CIVE - Computational Intelligence in Virtual Environments
+CIVI - Computational Intelligence for Visual Intelligence
+CIVR - Conference on Image and Video Retrieval
+CIVTS - Computational Intelligence in Vehicles and Transportation Systems
+CIVVS - Computational Intelligence in Vehicles and Vehicular Systems
+CJCDGCGT - China-Japan Conference on Discrete Geometry, Combinatorics and Graph Theory
+CKC @ WWW - Social and Collaborative Construction of Structured Knowledge
+CL - International Conference on Computational Logic
+CL&C - Classical Logic and Computation
+CLA - Concept Lattices and their Applications
+CLAAP - Colleque de Lille sur les Arbres en Algebre et en Programmation
+CLADE - Challenges of Large Applications in Distributed Environments
+CLADE @ HPDC - Challenges of Large Applications in Distributed Environments
+Classical Logic and Computation (CL&C)
+Classification of Events, Activities and Relationships (CLEAR)
+CLAWAR - Climbing and Walking Robots and the Support Technologies for Mobile Machines
+Clean Database (CleanDB)
+CleanDB - Clean Database
+CLEAR - Classification of Events, Activities and Relationships
+CLEF - Cross-Language Evaluation Forum
+CLEI - Latin American Computing Conference / Conferencia Latinoamericana En Informatica
+CLHS @ HPDC - Changing Landscapes in HPC Security
+CLiF - Corpus Linguistics Fest
+CLIHC - Latin American Conference on Human Computer Interaction
+CLIMA - Computational Logic in Multi-Agent Systems
+Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)
+CLIN - Computational Linguistics in the Netherlands
+Clinical Image-Based Procedures (CLIP @ MICCAI)
+CLIP - Cross-Language Information Processing
+CLIP @ MICCAI - Clinical Image-Based Procedures
+CLOSER - Cloud Computing and Services Science
+CLOUD - International Conference on Cloud Computing
+Cloud and Autonomic Computing Conference (CAC)
+Cloud and Big Data (CBD)
+Cloud and Green Computing (CGC)
+Cloud and Service Computing (CSC)
+Cloud Computing and Big Data (CloudCom-Asia)
+Cloud Computing and Intelligence Systems (CCIS)
+Cloud Computing and Services Science (CLOSER)
+Cloud Computing (CloudCom)
+Cloud Computing (CloudComp)
+Cloud Computing Projects and Initiatives (CCPI @ Euro-Par)
+Cloud Computing Security Workshop (CCSW @ CCS)
+Cloud Data and Platforms (CloudDP @ EuroSys)
+Cloud Data Management (CloudDb @ CIKM)
+Cloud Forward (Cloud Forward)
+Cloud Intelligence (Cloud-I)
+Cloud-I - Cloud Intelligence
+CloudCom - Cloud Computing
+CloudCom-Asia - Cloud Computing and Big Data
+CloudComp - Cloud Computing
+CloudDb @ CIKM - Cloud Data Management
+CloudDP @ EuroSys - Cloud Data and Platforms
+CloudMDE @ MoDELS - Model-Driven Engineering on and for the Cloud
+CLOUDNET - International Conference on Cloud Networking
+CLSW - Chinese Lexical Semantics
+CLUSTER - International Conference on Cluster Computing
+Cluster Computing and the Grid (CCGRID)
+CMA @ MoDELS - Comparing Modeling Approaches Workshop
+CMC - Communications and Mobile Computing
+CMC - Conference on Membrane Computing
+CMC - Cooperative Multimodal Communication
+CMCS - Coalgebraic Methods in Computer Science
+CMG - Computer Measurement Group Conference
+CMLSA @ ER - Conceptual Modeling for Life Sciences Applications
+CMMR - Computer Music Modeling and Retrieval
+CMN - Computational Models of Narrative
+CMS - Communications and Multimedia Security
+CMS @ ER - Conceptual Modeling of Service
+CMSB - Computational Methods in Systems Biology
+CMSBSE @ ICSE - Combining Modelling and Search-Based Software Engineering
+CMSEBA @ MoDELS - Combining Modelling with Search- and Example-Based Approaches
+CN - Computer Networks
+CNIKM @ CIKM - Complex Networks Meet Information & Knowledge Management
+CNIS - Communication, Network, and Information Security
+CNKBS - Compulog Net Meeting on Knowledge Bases
+CNL - Controlled Natural Language
+CNS - Communications and Network Security
+CNS - Communications and Networking Symposium
+CNSA - Conference on Network Security & Applications
+CNSM - Conference on Network and Service Management
+CNSR - Conference on Communication Networks and Services Research
+Co-HPC @ SC - Hardware-Software Co-Design for High Performance Computing
+Coalgebraic Methods in Computer Science (CMCS)
+CoBuild - Cooperative Buildings
+CoCo - Structure in Complexity Theory Conference
+COCOA - Conference on Combinatorial Optimization and Applications
+COCOON - Computing and Combinatorics Conference
+COCOS - Global Constraint Optimization and Constraint Satisfaction
+COCV - Compiler Optimization Meets Compiler Verification
+CODAS - International Symposium on Cooperative Database Systems for Advanced Applications
+CODASPY - Conference on Data and Application Security and Privacy
+CODATA - International Council of Scientific Unions Committee on Data for Science and Technology
+Code Hunt on Educational Software Engineering (CHESE @ ISSTA)
+Code Optimisation for Multi and Many Cores (COSMIC @ CGO)
+CODES - Conference on Hardware Software Codesign
+Codes, Cryptology, and Information Security (C2SI)
+Codes for Boundary-Value Problems in Ordinary Differential Equations
+Coding Theory and Applications
+Coding Theory and Applications (EUROCODE)
+CODS - ACM IKDD Conference on Data Science
+COEA - Component-Oriented Enterprise Applications
+CogART - Cognitive Radio and Advanced Spectrum Management
+Cognition and Exploratory Learning in Digital Age (CELDA @ IADIS Conferences)
+Cognitive Information Processing (CIP)
+Cognitive Radio and Advanced Spectrum Management (CogART)
+Cognitive Radio Architectures for Broadband (CRAB @ MOBICOM)
+Cognitive Radio Networks (CoRoNet @ MOBICOM)
+Cognitive Radio Oriented Wireless Networks and Communications (CROWNCOM)
+Cognitive Systems
+Cognitive Technology (CT)
+CogSci - Annual Meeting of the Cognitive Science Society
+COIN @ AAMAS - Coordination, Organizations, Institutions, and Norms in Agent Systems
+COLING - International Conference on Computational Linguistics
+CoLIS - Conceptions of Library and Information Sciences
+CollaborateCom - Collaborative Computing
+Collaboration and Internet Computing (CIC)
+Collaboration between Human and Artificial Societies
+Collaboration Technologies and Systems (CTS)
+Collaborative Agents - REsearch and Development (CARE @ IAT)
+Collaborative Computing (CollaborateCom)
+Collaborative Decision Making (CDM)
+Collaborative Online Organizations (COOS @ AAMAS)
+Collaborative Teaching of Globally Distributed Software Development (CTGDSD @ ICSE)
+Collaborative Virtual Environments (CVE)
+Collective Intelligence in Semantic Web and Social Networks (CISWSN @ IAT)
+Collective Robots (CRW)
+Colleque de Lille sur les Arbres en Algebre et en Programmation (CLAAP)
+Colloque Francophone sur l'Ingnierie des Protocoles (CFIP)
+Colloque International sur le Document Electronique (CIDE)
+Colloquium in Information Science and Technology (CIST)
+Colloquium on Object Orientation in Databases and Software Engineering (COODBSE)
+Colloquium on Structural Information & Communication Complexity (SIROCCO)
+Colloquium on Trees in Algebra and Programming (CAAP)
+Cologne Twente Workshop on Graphs and Combinatorial Optimization (CTW)
+CoLogNet Publications (CoLogNet)
+Color Imaging Conference (CIC)
+Color in Texture and Material Recognition (CTMR @ ICIAP)
+Colour in Graphics, Imaging, and Vision (CGIV)
+COLT - Computational Learning Theory
+Com.Geo - Computing for Geospatial Research & Application
+COMAD - Conference on Management of Data
+Combinatorial and Algorithmic Aspects of Networking (CAAN)
+Combinatorial Optimization (Aussois)
+Combinatorial Pattern Matching (CPM)
+Combinatorics, Algorithms, Probabilistic and Experimental Methodologies (ESCAPE)
+Combinatorics and Computer Science (CCS)
+Combinatorics on Words (WORDS)
+Combined Object-Oriented Modelling and Programming Languages (COOMPL @ ECOOP)
+Combining and Uniting Business Intelligence with Semantic Technologies (CUBIST)
+Combining Modelling and Search-Based Software Engineering (CMSBSE @ ICSE)
+Combining Modelling with Search- and Example-Based Approaches (CMSEBA @ MoDELS)
+ComComAP - Computers, Communications and IT Applications
+COMMA - Computational Models of Argument
+Commerce and Enterprise Computing (CEC)
+Communicability, Computer Graphics and Innovative Design for Interactive Systems (CCGIDIS)
+Communicability design and evaluation in cultural and ecological multimedia system (CommunicabilityMS @ MM)
+CommunicabilityMS @ MM - Communicability design and evaluation in cultural and ecological multimedia system
+Communicating Business Process and Software Models Quality, Understandability, and Maintainability (CPSM @ ICSME)
+Communicating Process Architectures (CPA)
+Communication, Architecture, and Applications for Network-Based Parallel Computing (CANPC)
+Communication, Network, and Information Security (CNIS)
+Communication System Software and Middleware (COMSWARE)
+Communication Systems and Applications (CSA)
+Communication Systems and Networks (COMSNETS)
+Communication Systems and Networks (CSN)
+Communication Systems, Networks and Digital Signal Processing (CSNDSP)
+Communication Technologies for Vehicles (Nets4Cars/Nets4Trains)
+Communications and Computer Networks (CCN)
+Communications and Mobile Computing (CMC)
+Communications and Multimedia Security (CMS)
+Communications and Network Security (CNS)
+Communications and Networking in China (CHINACOM)
+Communications and Networking Symposium (CNS)
+Communications in Computing (CIC)
+Communications Infrastructure. Systems and Applications in Europe (EuropeComm)
+Communications, Internet, and Information Technology (CIIT)
+Communities and Technologies (C&T)
+Community-Organized Multimodal Mining (MMCommons @ MM)
+CoMoA @ ER - Conceptual Modeling for Agents
+CoMoGIS @ ER - Conceptual Modeling for Geographic Information Systems
+CoMoL @ ER - Conceptual Modeling in the Large
+COMP @ GIS - Computational Models of Place
+Comparative Review of Information Systems Design Methodologies (CRIS)
+Comparing Modeling Approaches Workshop (CMA @ MoDELS)
+COMPASS Workshop (COMPASS)
+COMPCON - IEEE Computer Society International Conference
+COMPENG - Complexity in Engineering
+Compiler Construction (CC)
+Compiler Optimization Meets Compiler Verification (COCV)
+Compiler Optimizations for Scalable Parallel Systems Languages
+Compilers, Architecture, and Synthesis for Embedded Systems (CASES)
+CompIMAGE - Computational Modeling of Objects Represented in Images
+CompleNet - Workshop on Complex Networks
+Complex - International Conference on Complex Sciences
+Complex Adaptive Systems
+Complex Faults and Failures in Large Software Systems (COUFLESS @ ICSE)
+Complex, Intelligent and Software Intensive Systems (CISIS)
+Complex Networks Meet Information & Knowledge Management (CNIKM @ CIKM)
+Complex Systems Design & Management (CSDM)
+Complexity in Engineering (COMPENG)
+CompLife - Computational Life Sciences
+Component-Based Software Engineering (CBSE)
+Component-Based Software Quality
+Component-Oriented Enterprise Applications (COEA)
+COMPOS - Compositionality: The Significant Difference
+Compositionality: The Significant Difference (COMPOS)
+COMPSAC - Computer Software and Applications Conference
+CompSci @ CIKM - Computational Scientometrics: Theory & Applications
+CompSens - Merging Fields Of Computational Intelligence And Sensor Technology
+CompSysTech - Computer Systems and Technologies
+Compulog Net Meeting on Knowledge Bases (CNKBS)
+Compulog Workshops (Compulog)
+Computability and Complexity in Analysis (CCA)
+Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)
+Computational Aesthetics
+Computational and Information Science (CIS)
+Computational Aspects of Social Networks (CASoN)
+Computational Autonomy - Potential, Risks, Solutions (AUTONOMY @ AAMAS)
+Computational Color Imaging Workshop (CCIW)
+Computational Combinatorial Optimization
+Computational Geometry and Graph Theory (KyotoCGGT)
+Computational Geometry (CG)
+Computational Geometry, Graphs and Applications (CGGA)
+Computational Imaging
+Computational Intelligence and Data Mining (CIDM)
+Computational Intelligence and Ensemble Learning (CIEL)
+Computational Intelligence and Games (CIG)
+Computational Intelligence and Security (CIS)
+Computational Intelligence Applications in Smart Grid (CIASG)
+Computational Intelligence (CI)
+Computational Intelligence, Cognitive Algorithms, Mind, and Brain (CCMB)
+Computational Intelligence, Communication Systems and Networks (CICSyN)
+Computational Intelligence for Communication Systems and Networks (CIComms)
+Computational Intelligence for Creativity and Affective Computing (CICAC)
+Computational Intelligence for Engineering Solutions (CIES)
+Computational Intelligence for Financial Engineering & Economics (CIFEr)
+Computational Intelligence for Human-like Intelligence (CIHLI)
+Computational Intelligence for Image Processing (CIIP)
+Computational Intelligence for Modelling, Control and Automation (CIMCA)
+Computational Intelligence for Multimedia, Signal and Vision Processing (CIMSIVP)
+Computational Intelligence for Multimedia Understanding (MUSCLE)
+Computational Intelligence for Security and Defense Applications (CISDA)
+Computational Intelligence for Visual Intelligence (CIVI)
+Computational Intelligence in Big Data (CIBD)
+Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)
+Computational Intelligence in Biometrics and Identity Management (CIBIM)
+Computational Intelligence in Biometrics (CIB)
+Computational Intelligence in Brain Computer Interfaces (CIBCI)
+Computational Intelligence in Control and Automation (CICA)
+Computational Intelligence in Cyber Security (CICS)
+Computational Intelligence in Dynamic and Uncertain Environments (CIDUE)
+Computational Intelligence in Healthcare and e-health (CICARE)
+Computational Intelligence in Medical Imaging (CIMI)
+Computational Intelligence in Multi-Criteria Decision-Making (MCDM)
+Computational Intelligence In Production And Logistics Systems (CIPLS)
+Computational Intelligence in Rehabilitation and Assistive Technologies (CIRAT)
+Computational Intelligence in Robotic Rehabilitation and Assistive Technologies (CIR2AT)
+Computational Intelligence in Robotics and Automation (CIRA)
+Computational Intelligence in Scheduling (CISched)
+Computational Intelligence in Security for Information Systems (CISIS)
+Computational Intelligence in Vehicles and Transportation Systems (CIVTS)
+Computational Intelligence in Vehicles and Vehicular Systems (CIVVS)
+Computational Intelligence in Virtual Environments (CIVE)
+Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB)
+Computational Learning Theory (COLT)
+Computational Life Sciences (CompLife)
+Computational Linguistics in the Netherlands (CLIN)
+Computational Logic in Multi-Agent Systems (CLIMA)
+Computational Methods in Systems Biology (CMSB)
+Computational Modeling of Objects Represented in Images (CompIMAGE)
+Computational Models of Argument (COMMA)
+Computational Models of Narrative (CMN)
+Computational Models of Place (COMP @ GIS)
+Computational Natural Language Learning (CoNLL)
+Computational Science and Engineering (CSE)
+Computational Sciences and Optimization (CSO)
+Computational Scientometrics: Theory & Applications (CompSci @ CIKM)
+Computational Social Networks (CSoNet)
+Computational Systems Bioinformatics Conference (CSB)
+Computational Systems-Biology and Bioinformatics (CSBio)
+Computational Topology in Image Context (CTIC)
+Computational Transportation Science (CTS @ GIS)
+Computational Visual Media (CVM)
+Compute - Bangalore Annual Compute Conference
+Computer Aided Learning and Instruction in Science and Engineering (CALISCE)
+Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)
+Computer Aided Systems Theory (EUROCAST)
+Computer Aided Verification (CAV)
+Computer Algebra and Parallelism (CAP)
+Computer Algebra in Scientific Computing (CASC)
+Computer Analysis of Images and Patterns (CAIP)
+Computer and Communications Security (CCS)
+Computer and Computing Technologies in Agriculture (CCTA)
+Computer and Information Technology (CIT)
+Computer and Telecommunications Performance Engineering
+Computer Animation and Social Agents (CASA)
+Computer Animation (CA)
+Computer Applications in Industry and Engineering (CAINE)
+Computer Architectures for Machine Perception (CAMP)
+Computer Assisted Radiology and Surgery (CARS)
+Computer Design (CDES)
+Computer Games and Digital Cultures Conference (CGDC)
+Computer Games (CGAMES)
+Computer Graphics and Imaging (CGIM)
+Computer Graphics and Interactive Techniques in Australasia and Southeast Asia (GRAPHITE)
+Computer Graphics and Visual Computing (CGVC)
+Computer Graphics, Imaging and Visualization (CGIV)
+Computer Graphics International (CGI)
+Computer Graphics Theory and Applications (GRAPP)
+Computer Graphics, Virtual Reality, Visualisation and Interaction in Africa (Afrigraph)
+Computer Hardware Description Languages and their Applications (CHDL)
+Computer Human Interaction for Management of Information Technology (CHIMIT)
+Computer, Information, and Systems Sciences, and Engineering (CISSE)
+Computer Information Systems and Industrial Management Applications (CISIM)
+Computer Integrated Manufacturing (CIM)
+Computer Measurement Group Conference (CMG)
+Computer Music Modeling and Retrieval (CMMR)
+Computer Networks, Architecture and Applications (NETWORKS)
+Computer Networks (CN)
+Computer Performance Evaluation
+Computer Personnel Research (CPR)
+Computer Recognition Systems (CORES)
+Computer Science and Information Engineering (CSIE)
+Computer Science and its Applications (CSA)
+Computer Science and Software Engineering (CSSE)
+Computer Science, Computer Engineering, and Social Media (CSCESM)
+Computer Science Conference (ACM)
+Computer Science Education Research Conference (CSERC)
+Computer Science, Environment, Ecoinformatics, and Education (CSEE)
+Computer Science, Intelligent System and Environment (CSISE)
+Computer Science Logic (CSL)
+Computer Science On-line Conference (CSOC)
+Computer Science Symposium in Russia (CSR)
+Computer Software and Applications Conference (COMPSAC)
+Computer Support for Environmental Impact Assessment (CSEIA)
+Computer Supported Acitivity Coordination (CSAC)
+Computer Supported Collaborative Learning (CSCL)
+Computer Supported Cooperative Work (D-CSCW) (D-CSCW)
+Computer Supported Cooperative Work in Design (CSCWD)
+Computer Systems and Technologies (CompSysTech)
+Computer Vision and Pattern Recognition (CVPR)
+Computer Vision/Computer Graphics Collaboration Techniques (MIRAGE)
+Computer Vision for Biomedical Image Applications (CVBIA)
+Computer Vision meets Databases (CVDB)
+Computer Vision Theory and Applications (VISAPP)
+Computer Vision, Virtual Reality and Robotics in Medicine (CVRMed)
+Computer-Aided Control System Design (CACSD)
+Computer-Aided Design and Computer Graphics (CAD/Graphics)
+Computer-Aided Design of User Interfaces (CADUI)
+Computer-Assisted and Robotic Endoscopy (CARE @ MICCAI)
+Computer-Based Medical Systems (CBMS)
+Computer-Human Interaction in Play (CHI PLAY)
+Computerlinguistik
+Computers and Advanced Technology in Education (CATE)
+Computers and Games (CG)
+Computers and Their Applications (CATA)
+Computers, Communications and IT Applications (ComComAP)
+Computers for People with Special Needs (CPSN)
+Computers Users' Behavior (CUB @ DEXA)
+Computing and Combinatorics Conference (COCOON)
+Computing and Networking - Across Practical Development and Theoretical Research (CANDAR)
+Computing for Geospatial Research & Application (Com.Geo)
+Computing Frontiers (CF)
+Computing in an Imperfect World (Soft-Ware)
+Computing in Heterogeneous, Autonomous 'N' Goal-Oriented Environments (CHANGE @ ASPLOS)
+Computing: The Australasian Theory Symposium (CATS)
+Computing with Terms and Graphs (TERMGRAPH)
+COMSNETS - Communication Systems and Networks
+COMSWARE - Communication System Software and Middleware
+CoMWIM @ ER - Conceptual Model-Directed Web Information Integration and Mining
+Concept Lattices and their Applications (CLA)
+Conceptions of Library and Information Sciences (CoLIS)
+Conceptual Model-Directed Web Information Integration and Mining (CoMWIM @ ER)
+Conceptual Modeling Approaches for e-Business (eCOMO @ ER)
+Conceptual Modeling for Agents (CoMoA @ ER)
+Conceptual Modeling for Geographic Information Systems (CoMoGIS @ ER)
+Conceptual Modeling for Life Sciences Applications (CMLSA @ ER)
+Conceptual Modeling in the Large (CoMoL @ ER)
+Conceptual Modeling of Service (CMS @ ER)
+Conceptual Modeling of Service-Oriented Software Systems (CoSS @ ER)
+CONCUR - International Conference on Concurrency Theory
+Concurrency, Specification and Programming (CSP)
+Concurrent Object-Oriented Programming and Petri Nets
+Conditional and Typed Rewriting Systems (CTRS)
+Conducting Empirical Studies in Industry (CESI @ ICSE)
+CoNEXT - Conference on Emerging Network Experiment and Technology
+CONFENIS - International Conference on Research and Practical Issues of Enterprise Information Systems
+Conference of Future Internet (CFI)
+Conference of Open Innovations Association (FRUCT) (FRUCT)
+Conference of Telecommunication, Media and Internet Techno-Economics (CTTE)
+Conference of the Association for Machine Translation in the Americas (AMTA)
+Conference of the Association Information and Management (AIM)
+Conference of the Centre for Advanced Studies on Collaborative Research (CASCON)
+Conference of the European Chapter of the Association for Computational Linguistics (EACL)
+Conference of the European Cooperation in Informatics (ECI)
+Conference of the Gesellschaft fr Klassifikation (GfKl)
+Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Conference of the International Speech Communication Association (INTERSPEECH)
+Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT Conf.)
+Conference on Advanced Information Systems Engineering (CAiSE)
+Conference on Algebra and Coalgebra in Computer Science (CALCO)
+Conference on Algebraic Informatics (CAI)
+Conference on Algorithms and Discrete Applied Mathematics (CALDAM)
+Conference on Algorithms and Hardware for Parallel Processing (CONPAR)
+Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication (SIGCOMM)
+Conference on Artificial Intelligence Applications (CAIA)
+Conference on Assistive Technologies
+Conference on Assistive Technology for People with Vision and Hearing Impairments (CVHI)
+Conference on Automated Deduction (CADE)
+Conference on Automation Science and Engineering (CASE)
+Conference on Business Informatics (CBI)
+Conference on Combinatorial Optimization and Applications (COCOA)
+Conference on Communication Networks and Services Research (CNSR)
+Conference on Computability in Europe (CiE)
+Conference on Computational Complexity (CCC)
+Conference on Computational Science, Engineering and Information Technology (CCSEIT)
+Conference on Computer as a Tool (EUROCON)
+Conference on Computer Logic
+Conference on Computer Personnel Research (SIGCPR)
+Conference on Computer Supported Cooperative Work (CSCW)
+Conference on Computers and Accessibility (ASSETS)
+Conference on Control Applications (CCA)
+Conference on Creating, Connecting and Collaborating through Computing (C5)
+Conference on Current Trends in Theory and Practice of Informatics (SOFSEM)
+Conference on Data and Application Security and Privacy (CODASPY)
+Conference on Decision and Control (CDC)
+Conference on E-business Technology and Strategy (CETS)
+Conference on Electronic Commerce Technology (CEC)
+Conference on Email and Anti-Spam (CEAS)
+Conference on Embedded Systems, Computational Intelligence and Telematics in Control (CESCIT)
+Conference on Emerging Network Experiment and Technology (CoNEXT)
+Conference on ENTERprise Information Systems (CENTERIS)
+Conference on GenderIT (GenderIT)
+Conference on Hardware Software Codesign (CODES)
+Conference on High Performance Computing (Supercomputing) (SC)
+Conference on Human Information Interaction and Retrieval (CHIIR)
+Conference on Image and Video Retrieval (CIVR)
+Conference on Imaging Science, Systems and Technology (CISST)
+Conference on Implementation and Application of Automata (CIAA)
+Conference on Information and Knowledge Management (CIKM)
+Conference on Information Sciences and Systems (CISS)
+Conference on Information Security and Cryptology (CISC)
+Conference on Information Systems and Management of Data (CISMOD)
+Conference on Information Technology (CIT)
+Conference on Information Technology Curriculum (CITC)
+Conference on Information Technology Education (SIGITE)
+Conference on Information Technology in Asia (CITA)
+Conference on Innovative Data Systems Research (CIDR)
+Conference on Intelligent Data Understanding (CIDU)
+Conference on Intelligent Text Processing and Computational Linguistics (CICLing)
+Conference on Management of Data (COMAD)
+Conference on Membrane Computing (CMC)
+Conference on Multimedia Modeling (MMM)
+Conference on Network Administration (NETA)
+Conference on Network and Service Management (CNSM)
+Conference on Network Security & Applications (CNSA)
+Conference on Online Social Networks (COSN)
+Conference on Organizational Computing Systems (COOCS)
+Conference on Privacy, Security and Trust (PST)
+Conference on Recommender Systems (RecSys)
+Conference on Research, Innovation and Vision for the Future in Computing & Communication Technologies (RIVF)
+Conference on Risks and Security of Internet and Systems (CRiSIS)
+Conference on Scientific Computing (CSC)
+Conference on Social Semantic Web (CSSW)
+Conference on Soft Computing as Transdisciplinary Science and Technology (CSTST)
+Conference on Software Engineering Education (and Training) (CSEE(&T))
+Conference on Software Maintenance and Reengineering (CSMR)
+Conference on Software Technology and Engineering Practice (STEP)
+Conference On Spatial Information Theory (COSIT)
+Conference on Standards for Communications and Networking (CSCN)
+Conference on Systems Engineering Research (CSER)
+Conference on Telecommunications and Information Markets (COTIM)
+Conference on Theory and Practice of Information Technologies (ITAT)
+Conference on Trends and Directions in Expert Systems (SIGBDP)
+Conference on User Services (SIGUCCS)
+Conference on Visual Media Production (CVMP)
+Conference on Web Accessibility (W4A)
+Conference Specification and Verification of Component-Based Systems (SAVCBS @ FSE)
+Conferencia de la Asociacin Espaola para la Inteligencia Artificial (CAEPIA)
+Conferencia Iberoamericana de Software Engineering (CIbSE)
+Configurable Distributed Systems (CDS)
+Configuration Workshop
+Conformal and Probabilistic Prediction with Applications (COPA)
+Confrence en Recherche d'Infomations et Applications (CORIA)
+Confrence francophone sur l'apprentissage automatique (CAP)
+Confrence francophone sur les Architectures Logicielles (CAL)
+Confrence Internationale sur l'Informatique et ses Applications (CIIA)
+Congreso de la Sociedad Espaola para las Ciencias del Videojuego (CoSECivi)
+Congreso Español de Informática Gráfica
+Congreso Internacional de Inteligencia Computacional (CIIC)
+Congress of the Italian Association for Artificial Intelligence (AI*IA)
+Congress on Evolutionary Computation (CEC)
+Congrs INFORSID (INFORSID)
+CONIELECOMP - International Conference on Electronics, Communications, and Computers
+CoNLL - Computational Natural Language Learning
+CONPAR - Conference on Algorithms and Hardware for Parallel Processing
+Constraint Databases and Applications (CDB)
+Constraint Solving and Constraint Logic Programming (CSCLP)
+Constraint Solving and Language Processing (CSLP)
+Constraints in Computational Logics (CCL)
+Constraints in Software Testing, Verification, and Analysis (CSTVA @ ICSE)
+Construction and Analysis of Safe, Secure, and Interoperable Smart Devices (CASSIS)
+Constructive Side-Channel Analysis and Secure Design (COSADE)
+Constructivity in Computer Science
+Consumer Communications and Networking Conference (CCNC)
+Contemporary Knowledge Engineering and Cognition
+Content-Based Access of Image and Video Databases (CAIVD)
+Content-Based Multimedia Indexing (CBMI)
+CONTEXT - Modeling and Using Context
+Context Enabled Source and Service Selection, Integration and Adaptation (CSSSIA @ WWW)
+Context for Software Development (CSD @ ICSE)
+Context Sensing and Activity Recognition (CSAR @ SenSys)
+Context-Aware Adaptation of Service Front-Ends (CASFE)
+Context-Awareness for Self-Managing Systems (CASEMANS)
+Context-Oriented Programming (COP @ ECOOP)
+Control Theory for Software Engineering (CTSE @ FSE)
+Controlled Natural Language (CNL)
+COOCS - Conference on Organizational Computing Systems
+COODBSE - Colloquium on Object Orientation in Databases and Software Engineering
+COOL Chips - Low-Power and High-Speed Chips
+COOMPL @ ECOOP - Combined Object-Oriented Modelling and Programming Languages
+COOP - Cooperative Systems Design
+Cooperation, Concurrence and Communication Project
+Cooperative and Human Aspects of Software Engineering (CHASE @ ICSE)
+Cooperative Buildings (CoBuild)
+Cooperative Design, Visualization, and Engineering (CDVE)
+Cooperative Distributed Systems (CDS @ ICDCS)
+Cooperative Environments for Distributed Systems Engineering
+Cooperative Information Agents (CIA)
+Cooperative Information Systems (CoopIS)
+Cooperative Multimodal Communication (CMC)
+Cooperative Systems Design (COOP)
+CoopIS - Cooperative Information Systems
+COORDINATION - International Conference on Coordination Models and Languages
+Coordination of Collaborative Engineering (CCE)
+Coordination, Organizations, Institutions, and Norms in Agent Systems (COIN @ AAMAS)
+COOS @ AAMAS - Collaborative Online Organizations
+COOTS - USENIX Conference on Object-Oriented Technologies and Systems
+COP @ ECOOP - Context-Oriented Programming
+COPA - Conformal and Probabilistic Prediction with Applications
+CoreGRID @ Euro-Par - Workshop on Grids, Clouds and P2P Computing
+CoreGRID Symposium/Workshop (CoreGRID)
+CORES - Computer Recognition Systems
+CORIA - Confrence en Recherche d'Infomations et Applications
+CoRoNet @ MOBICOM - Cognitive Radio Networks
+Corpus Linguistics Fest (CLiF)
+Correct Hardware Design and Verification Methods (CHARME)
+COSADE - Constructive Side-Channel Analysis and Secure Design
+CoSECivi - Congreso de la Sociedad Espaola para las Ciencias del Videojuego
+COSH @ HiPEAC - Workshop on Co-Scheduling of HPC Applications
+COSIT - Conference On Spatial Information Theory
+COSMIC @ CGO - Code Optimisation for Multi and Many Cores
+COSN - Conference on Online Social Networks
+CoSS @ ER - Conceptual Modeling of Service-Oriented Software Systems
+COST 237 / 2102 Workshops (COST)
+COST264 - Networked Group Communications
+COTIM - Conference on Telecommunications and Information Markets
+COUFLESS @ ICSE - Complex Faults and Failures in Large Software Systems
+CP - Principles and Practice of Constraint Programming
+CPA - Communicating Process Architectures
+CPA - WoTUG Conference on Concurrent and Parallel Systems
+CPAIOR - Integration of AI and OR Techniques in Constraint Programming
+CPM - Combinatorial Pattern Matching
+CPR - Computer Personnel Research
+CPS Week - Cyber-Physical Systems Week
+CPS-SPC @ CCS - Cyber-Physical Systems-Security and/or PrivaCy
+CPSCom - Cyber, Physical and Social Computing
+CPSM @ ICSME - Communicating Business Process and Software Models Quality, Understandability, and Maintainability
+CPSN - Computers for People with Special Needs
+CPSNA - Cyber-Physical Systems, Networks, and Applications
+CPSS @ CCS - Cyber-Physical Systems Security
+CQRE - International Exhibition and Congress on Network Security
+CRAB @ MOBICOM - Cognitive Radio Architectures for Broadband
+Creativity & Cognition
+CRIS - Comparative Review of Information Systems Design Methodologies
+CRIS - Current Research Information Systems
+CRiSIS - Conference on Risks and Security of Internet and Systems
+Critical Computing
+Critical Information Infrastructures Security (CRITIS)
+CRITIS - Critical Information Infrastructures Security
+CRIWG - International Workshop on Groupware
+Cross-Language Evaluation Forum (CLEF)
+Cross-Language Information Processing (CLIP)
+CrossCloud @ EuroSys - CrossCloud Infrastructures & Platforms
+CrossCloud Infrastructures & Platforms (CrossCloud @ EuroSys)
+CrossCloud Systems (CCB @ Middleware)
+Crowd-Based Requirements Engineering (CrowdRE @ RE)
+Crowd-based Software Development Methods and Technologies (CrowdSoft @ FSE)
+CrowdMM @ MM - Crowdsourcing for Multimedia
+CrowdRE @ RE - Crowd-Based Requirements Engineering
+CrowdSoft @ FSE - Crowd-based Software Development Methods and Technologies
+Crowdsourced and Volunteered Geographic Information (GeoCrowd @ GIS)
+Crowdsourcing and Crowdsharing of Big (Internet) Data (S2B(I)D @ SIGCOMM)
+Crowdsourcing for Multimedia (CrowdMM @ MM)
+CrowdSourcing in Software Engineering (CSI-SE @ ICSE)
+CROWNCOM - Cognitive Radio Oriented Wireless Networks and Communications
+CRV - Canadian Conference on Computer and Robot Vision
+CRW - Collective Robots
+CRYPTO - International Cryptology Conference
+Cryptographic Algorithms and their Uses
+Cryptographic Hardware and Embedded Systems (CHES)
+Cryptography and Information Security in the Balkans (BalkanCryptSec)
+Cryptography and Lattices (CaLC)
+Cryptography and Security in Computing Systems (CS2 @ HiPEAC)
+Cryptography and Security Systems (CSS)
+Cryptography: Policy and Algorithms
+Cryptology and Network Security (CANS)
+CS2 @ HiPEAC - Cryptography and Security in Computing Systems
+CSA - Communication Systems and Applications
+CSA - Computer Science and its Applications
+CSAC - Computer Supported Acitivity Coordination
+CSAR @ SenSys - Context Sensing and Activity Recognition
+CSAW @ CCS - Workshop on Computer Security Architecture
+CSB - Computational Systems Bioinformatics Conference
+CSBio - Computational Systems-Biology and Bioinformatics
+CSC - Cloud and Service Computing
+CSC - Conference on Scientific Computing
+CSCESM - Computer Science, Computer Engineering, and Social Media
+CSCL - Computer Supported Collaborative Learning
+CSCloud - on Cyber Security and Cloud Computing
+CSCLP - Constraint Solving and Constraint Logic Programming
+CSCN - Conference on Standards for Communications and Networking
+CSCW - Conference on Computer Supported Cooperative Work
+CSCWD - Computer Supported Cooperative Work in Design
+CSD @ ICSE - Context for Software Development
+CSDM - Complex Systems Design & Management
+CSE - Computational Science and Engineering
+CSEDU - International Conference on Computer Supported Education
+CSEE - Computer Science, Environment, Ecoinformatics, and Education
+CSEE(&T) - Conference on Software Engineering Education (and Training)
+CSEIA - Computer Support for Environmental Impact Assessment
+CSER - Conference on Systems Engineering Research
+CSERC - Computer Science Education Research Conference
+CSET - Cyber Security Experimentation and Test
+CSF - IEEE Computer Security Foundations Symposium
+CSFW - IEEE Computer Security Foundations Workshop
+CSI-SE @ ICSE - CrowdSourcing in Software Engineering
+CSIE - Computer Science and Information Engineering
+CSIIRW - Cyber Security and Information Intelligence Research Workshop
+CSISE - Computer Science, Intelligent System and Environment
+CSL - Computer Science Logic
+CSLP - Constraint Solving and Language Processing
+CSMR - Conference on Software Maintenance and Reengineering
+CSN - Communication Systems and Networks
+CSNDSP - Communication Systems, Networks and Digital Signal Processing
+CSO - Computational Sciences and Optimization
+CSOC - Computer Science On-line Conference
+CSoNet - Computational Social Networks
+CSP - Concurrency, Specification and Programming
+CSP Forum - Cyber Security and Privacy EU Forum
+CSR - Computer Science Symposium in Russia
+CSS - Cryptography and Security Systems
+CSS - Cyberspace Safety and Security
+CSSE - Computer Science and Software Engineering
+CSSSIA @ WWW - Context Enabled Source and Service Selection, Integration and Adaptation
+CSSW - Conference on Social Semantic Web
+CSTST - Conference on Soft Computing as Transdisciplinary Science and Technology
+CSTVA @ ICSE - Constraints in Software Testing, Verification, and Analysis
+CSWS - Canadian Semantic Web Symposium
+CSWS - China Semantic Web Symposium
+CSWS @ SIGCOMM - Capacity Sharing Workshop
+CSWWS - Canadian Semantic Web Working Symposium
+CT - Cognitive Technology
+CT-RSA - The Cryptographer's Track at RSA Conference
+CTCS - Category Theory and Computer Science
+CTGDSD @ ICSE - Collaborative Teaching of Globally Distributed Software Development
+CTIC - Computational Topology in Image Context
+CTMR @ ICIAP - Color in Texture and Material Recognition
+CTRS - Conditional and Typed Rewriting Systems
+CTS - Collaboration Technologies and Systems
+CTS @ GIS - Computational Transportation Science
+CTSE @ FSE - Control Theory for Software Engineering
+CTTE - Conference of Telecommunication, Media and Internet Techno-Economics
+CTW - Cologne Twente Workshop on Graphs and Combinatorial Optimization
+CUB @ DEXA - Computers Users' Behavior
+CUBE International IT Conference & Exhibition (CUBE)
+CUBIST - Combining and Uniting Business Intelligence with Semantic Technologies
+Culture and Computing
+CURAC Jahrestagung (CURAC)
+Current Research Information Systems (CRIS)
+Current Trends in Applied Formal Method (FM-Trends)
+Current Trends in SNePS - Semantic Network Processing System (SNePS)
+Curves and Surfaces
+Custom Integrated Circuits Conference (CICC)
+CVBIA - Computer Vision for Biomedical Image Applications
+CVDB - Computer Vision meets Databases
+CVE - Collaborative Virtual Environments
+CVHI - Conference on Assistive Technology for People with Vision and Hearing Impairments
+CVM - Computational Visual Media
+CVMP - Conference on Visual Media Production
+CVPR - Computer Vision and Pattern Recognition
+CVRMed - Computer Vision, Virtual Reality and Robotics in Medicine
+CW - Cyberworlds
+CWIT - Canadian Workshop on Information Theory
+CYBCONF - International Conference on Cybernetics
+Cyber and Information Security Research (CISR)
+Cyber and Information Security Research Conference (CISRC)
+Cyber, Physical and Social Computing (CPSCom)
+Cyber Security - ASE International Conference on Cyber Security
+Cyber Security and Information Intelligence Research Workshop (CSIIRW)
+Cyber Security and Privacy EU Forum (CSP Forum)
+Cyber Security, Cyber Warfare and Digital Forensic (CyberSec)
+Cyber Security Experimentation and Test (CSET)
+Cyber Situational Awareness (CyberSA)
+Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)
+Cyber-Physical Systems, Networks, and Applications (CPSNA)
+Cyber-Physical Systems Security (CPSS @ CCS)
+Cyber-Physical Systems Week (CPS Week)
+Cyber-Physical Systems-Security and/or PrivaCy (CPS-SPC @ CCS)
+CyberC - Cyber-Enabled Distributed Computing and Knowledge Discovery
+CyberInfrastructure: Information Management in eScience (CIMS @ CIKM)
+CyberSA - Cyber Situational Awareness
+CyberSec - Cyber Security, Cyber Warfare and Digital Forensic
+Cyberspace Safety and Security (CSS)
+Cyberworlds (CW)
+CyCAR @ CCS - Security, Privacy and Dependability for CyberVehicles
+CyPhy - Design, Modeling and Evaluation of Cyber Physical Systems

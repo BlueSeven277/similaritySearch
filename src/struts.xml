@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+
+        <!-- 指定Struts 2配置文件的根元素 -->
+<struts>
+<!-- 指定全局国际化资源文件 -->
+<constant name="struts.custom.i18n.resources" value="mess"/>
+<!-- 指定国际化编码所使用的字符集 -->
+<constant name="struts.i18n.encoding" value="GBK"/>
+<!--指定constant的name为devMode表示处于开发模式，value=true修改配置文件内容自动热替换而不需要每次重新发布-->
+<constant name="struts.devMode" value="true"/>
+<!-- 所有的Action定义都应该放在package下,Struts2中通过package来管理action,这里的包名name并不对应java类中的包 -->
+<package name="hello" extends="struts-default" >
+
+    <action name="user_search" class="Action.srxinput.user_search" >
+        <!-- 定义三个逻辑视图和物理资源之间的映射 -->
+        <result name="input">/login.jsp</result>
+        <result name="error">/Garfield.jsp</result>
+        <result name="success">/result.jsp</result>
+    </action>
+</package>
+</struts>
